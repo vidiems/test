@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz App</title>
+    <link rel="stylesheet" type="text/css" href="/CSS/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="shortcut icon" href="#">
+</head>
+<body>
+    <div id="quiz">
+        <div id="question-title"></div>
+        <div id="choices"></div>
+        <button id="next-question" class="button">Next Question</button>
+    </div>
+
+<!-- Scripts -->
+<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.js"></script>
+<script src="/JS/mapp.js"></script>
+
+<!-- Templates  -->
+<script id="choices-template" type="text/x-handlebars-template">
+        {{#each choices}}
+        <div class="choice">
+            <input type="radio" name="choices" id="choice{{@index}}" value="{{@index}}">
+            <label for="choice{{@index}}">{{ @this }}</label>
+        </div>
+        {{/each}}
+</script>
+<script  id="title-template" type="text/x-handlebars-template">
+    {{ title }}
+</script>
+
+<script  id="finalScore-template" type="text/x-handlebars-template">
+    <h2 id="finalScore">You've scored {{ totalScore }} out of {{ questionsLength }}!</h2>
+   <a href="index.html">Back</a>
+</script>
+
+</body>
+</html>

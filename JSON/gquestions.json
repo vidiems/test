@@ -1,0 +1,268 @@
+[
+    {
+    
+        "title": "How many months do we have in a year?",
+           "choices":[
+              10,
+              6,
+              12,
+              24
+          ],
+      
+          "correctAnswer":12
+          },
+             {
+      
+    
+    "title": "How many days do we have in a week?",
+           "choices":[
+              14,
+              7,
+              2,
+              24
+          ],
+      
+          "correctAnswer":7
+          },
+    
+    
+          {
+      
+    "title": "How many days are there in a year?",
+           "choices":[
+              250,
+              300,
+              400,
+              365
+          ],
+      
+          "correctAnswer":365
+          },
+      
+          {
+            "title": "What is 2+2?",
+            "choices":[
+               3,
+               6,
+               4,
+               2
+           ],
+       
+           "correctAnswer":4
+           },
+       
+           {
+            "title": "Which number comes after 6?",
+            "choices":[
+               7,
+               5,
+               8,
+               9
+           ],
+       
+           "correctAnswer":7
+           },
+       
+           {
+
+            "title": "How many colors are there in a rainbow?",
+            "choices":[
+               7,
+               5,
+               8,
+               9
+           ],
+       
+           "correctAnswer":7
+           },
+       
+           {
+            "title": "What are your ears for?",
+            "choices":[
+               "Listening/hearing.",
+               "Talking/eating",
+               "Breathing/smelling",
+               "seeing"
+           ],
+       
+           "correctAnswer": "Listening/hearing."
+           },
+       
+           {
+            "title": "Which day comes after Friday?",
+            "choices":[
+               "Friday",
+               "Sunday",
+               "Saturday",
+               "Monday"
+           ],
+       
+           "correctAnswer":"Saturday"
+           },
+       
+           {
+     
+            "title": "We use our eyes to",
+            "choices":[
+               "Feel",
+               "Eat",
+               "Hear",
+               "See"
+           ],
+       
+           "correctAnswer":"See"
+           },
+       
+           {
+            "title": "What is a baby frog called?",
+            "choices":[
+               "Frog",
+               "Child",
+               "Tadpole",
+               "Curb"
+           ],
+       
+           "correctAnswer":"Tadpole"
+           },
+       
+           {
+            "title": "Where does a pig live?",
+            "choices":[
+               "Sty",
+               "Barn",
+               "Farm",
+               "Stead"
+           ],
+       
+           "correctAnswer":"Sty"
+           },
+       
+           {
+            "title": "Which animal is known as the ‘Ship of the Desert?",
+            "choices":[
+               "Horse",
+               "Lion",
+               "Camel",
+               "Goat"
+           ],
+       
+           "correctAnswer":"Camel"
+           },
+       
+           {
+            "title": "How many letters are there in the English alphabet?",
+            "choices":[
+               25,
+               26,
+               24,
+               27
+           ],
+       
+           "correctAnswer":26
+           },
+       
+           {
+            "title": "What do you call the person who brings a letter to your home from post office?",
+            "choices":[
+               "Postman",
+               "Driver",
+               "Delivery Guy",
+               "Post office"
+           ],
+       
+           "correctAnswer":"Postman"
+           },
+       
+           {
+            "title": "How do you relate to your maternal grandfather?",
+            "choices":[
+               "Mother’s father",
+               "Mother’s uncle",
+               "Mother’s brother",
+               "Mother’s cousin"
+           ],
+       
+           "correctAnswer":"Mother’s father"
+           },
+       
+           {
+            "title": "We smell with our _______",
+            "choices":[
+               "Tongue",
+               "Mouth",
+               "Eyes",
+               "Nose"
+           ],
+       
+           "correctAnswer":"Nose"
+           },
+{
+           "title": "Baby of a dog is called__________",
+            "choices":[
+               "Puppy",
+               "Child",
+               "Curb",
+               "Baby dog"
+           ],
+       
+           "correctAnswer":1
+           },
+{
+           "title": "Trout, carp and, barracuda are names of what?",
+            "choices":[
+               "Animal",
+               "Fish",
+               "Cereal",
+               "Houses"
+           ],
+       
+           "correctAnswer":"Fish"
+           },
+
+           
+{
+    "title": "How many consonants are there in the English alphabet?",
+     "choices":[
+        25,
+        24,
+        22,
+        21
+    ],
+
+    "correctAnswer":21
+    },
+           
+    {
+        "title": "What grows quicker—hair or toenails?",
+         "choices":[
+            "Hair",
+            "Toe"
+        ],
+    
+        "correctAnswer":"Hair"
+        },
+        
+        {
+            "title": "Which is the tallest mountain in the world?",
+             "choices":[
+                "Mount Kilimanjaro",
+                "Mount Everest",
+                "Mount Africa",
+                "Denali"
+            ],
+        
+            "correctAnswer":"Mount Kilimanjaro"
+            },
+
+            {
+                "title": "Which planet is known as the Red Planet?",
+                 "choices":[
+                    "Jupiter",
+                    "Earth",
+                    "Mercury",
+                    "Mars"
+                ],
+            
+                "correctAnswer":"Mars"
+                }
+]

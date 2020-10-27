@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color:  #111111;
+}
+#quiz {
+    width:  50%;
+    margin:  0 auto;
+    padding:  10px 20px 40px 20px;
+    border:  1px solid #ececec;
+}
+.choices {
+    margin:  10px;
+}
+.choice {
+    margin: 5px;
+}
+
+#finalScore {
+    text-align: center;
+}
+
+#question-title {
+    font-size:  26px;
+    padding: 10px;
+}
+
+#next-question {
+    float:  right;
+    margin-bottom:  10px;
+}

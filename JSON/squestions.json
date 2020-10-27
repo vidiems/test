@@ -1,0 +1,199 @@
+[
+{
+
+    "title": "Which animal lays eggs?",
+       "choices":[
+          "Dog",
+          "Cat",
+          "Duck",
+          "Sheep"
+      ],
+  
+      "correctAnswer":"Duck"
+      },
+         {
+  
+  "title":"A male cow is called?",
+          "choices":[
+                  "Ox",
+                "Dog",
+                "Sheep",
+                "Monkey"
+  
+          ],
+          "correctAnswer":"Ox"
+      },
+      {
+  
+  "title":"All animals need food, air, and ____ to survive.",
+          "choices":[
+        "House",
+          "Water",
+          "Chocolate",
+          "Fruits"
+  
+          ],
+          "correctAnswer":"Water"
+      },
+      {
+  
+  
+  "title":"Which one is a fur-bearing animal?",
+          "choices":[
+           "Hen",
+          "Crocodile",
+          "Tortoise",
+          "Cat"
+  
+          ],
+          "correctAnswer":"Cat"
+      },
+      {
+  
+  
+  "title":"What is Earth’s only natural satellite?",
+          "choices":[
+         "Sun",
+          "Mars",
+          "Venus",
+          "Moon"
+  
+          ],
+          "correctAnswer":"Moon"
+      },
+      {
+  
+  "title":"The tree has a branch filled with green _____.",
+          "choices":[
+           "Hair",
+          "Root",
+          "Leaves",
+          "Trunk"
+              ],
+          "correctAnswer":"Leaves"
+      },
+      {
+  
+  "title":"What part of the body helps you move?",
+          "choices":[
+              "Eyes",
+          "Lungs",
+          "Pancreas",
+          "Muscles"
+  
+          ],
+          "correctAnswer":"Muscles"
+      },
+      {
+  
+  "title":"The two holes of the nose are called?",
+          "choices":[
+              "Eyelids",
+          "Nostrils",
+          "Nails",
+          "Hair"
+          ],
+          "correctAnswer":"Nostrils"
+      },
+      {
+  "title":"What star shines in the day and provides light?",
+          "choices":[
+           "Moon",
+          "Venus",
+          "Mars",
+          "Sun"
+            ],
+          "correctAnswer":"Sun"
+      },
+      {
+  
+  "title":"Legs have feet and arms have ___.",
+          "choices":[
+                  "Ankles",
+          "Pelvis",
+          "Hands",
+          "Skull"
+            ],
+          "correctAnswer":"Hands"
+      },
+      {
+  
+  "title":"Which organ covers the entire body and protects it?",
+          "choices":[
+           "Liver",
+          "Heart",
+          "Skin",
+          "Brain"
+            ],
+          "correctAnswer":"Skin"
+      },
+      {
+  
+  "title":"Which shape is a round?",
+          "choices":[
+                  "Rectangle",
+          "Circle",
+          "Square",
+          "Triangle"
+  
+          ],
+          "correctAnswer":"Circle"
+      },
+      {
+  
+  "title":"Who invented the first functional telephone?",
+          "choices":[
+           "Albert Einstein",
+          "Nikola Tesla",
+          "Thomas Alva Edison",
+          "Alexander Graham Bell"
+  
+          ],
+          "correctAnswer":"Alexander Graham Bell"
+      },
+      {
+  
+  "title":"What is the young one of a cow called?",
+          "choices":[
+                "Puppy",
+          "Kitten",
+          "Calf",
+          "Baby"
+  
+          ],
+          "correctAnswer":"Calf"
+          },
+      {
+  
+  "title":"Dark rain clouds can give out lightning and ____.",
+          "choices":[
+                  "Thunder",
+          "Snow",
+          "Sunlight",
+          "Wind"
+          ],
+          "correctAnswer":"Thunder"
+      },
+      {
+  
+  "title":"Your hands have four fingers and a ____.",
+          "choices":[
+                  "Knee",
+          "Ankle",
+          "Elbow",
+          "Thumb"
+          ],
+          "correctAnswer":"Thumb"
+          },
+      {
+  
+  "title":"Which part of the bird lets it fly high in the sky?",
+          "choices":[
+                  "Beak",
+          "Feet",
+          "Wings",
+          "Claws"
+          ],
+          "correctAnswer":"Wings"
+          }      
+]
