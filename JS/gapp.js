@@ -3,7 +3,7 @@
     "use strict";
 
     // Get all the questions from the JSON file
-    var request = $.getJSON("/JSON/gquestions.json");
+    var request = $.getJSON("https://vidiems.github.io/test/JSON/gquestions.json");
 
     var Quiz = {
         // Current question index in the array, starting with 0
